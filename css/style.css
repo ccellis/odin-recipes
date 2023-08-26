@@ -1,0 +1,15 @@
+* {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+body {
+    background-color: rgb(250, 229, 232);
+}
+
+a.internal {
+    color:black;
+}
+
+a.internal:visited {
+    color:black;
+}
